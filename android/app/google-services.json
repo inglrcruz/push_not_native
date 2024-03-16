@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940768875390",
+    "project_id": "exposure-919ed",
+    "storage_bucket": "exposure-919ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940768875390:android:3c53ea4b931808d023d92f",
+        "android_client_info": {
+          "package_name": "com.luiscruz1992.exposure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUOyBWgtdID4p-ZW5fmn62ckAqDGi2FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
